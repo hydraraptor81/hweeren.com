@@ -1,0 +1,64 @@
+baseURL: https://hweeren.com/
+languageCode: en-us
+title: hydraraptor81
+theme: ["PaperMod"]
+pagination.pagerSize: 5
+copyright: '[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
+outputs:
+  home:
+     - HTML
+     - RSS
+     - JSON # necessary for search
+
+params:
+  env: production  #change to production
+  keywords: [Blog, Portfolio, PaperMod, hweeren.com, hweeren, "hwee ren", "aw hwee ren", "hr",  privacy, security, GrapheneOS, Linux, Signal]
+  ShowAllPagesInArchive: true
+  DateFormat: "2 January 2006"
+  defaultTheme: dark
+  author: ["hydraraptor81"]
+
+
+
+  homeInfoParams:
+    Title: Hello there.
+    Content: |
+      A Systems Administrator of a homelab. Maintainer of [searxng.hweeren.com](https://searxng.hweeren.com).<br> 
+      Please use my PGP key on [keys.openpgp.org](https://keys.openpgp.org) to communicate with me via email, otherwise use Matrix/Signal though I am online on signal more frequently at <b>hydraraptor81.96<b>
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/hydraraptor81"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/hweeren"
+    - name: "email"
+      url: "mailto:hr@hweeren.com"
+
+  ShowShareButtons: true
+  ShareButtons: ["whatsapp", "telegram", "facebook", "linkedin", "reddit", "x"]
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]  
+    placeholder: "Type here"
+
+menu:
+  main:
+    - identifier: Archive
+      name: Archive
+      url: /archives/
+      weight: 5
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 10
+
+
+
