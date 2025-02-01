@@ -1,4 +1,4 @@
-baseURL: https://www.hweeren.com/
+baseURL: "https://www.hweeren.com"
 languageCode: en-us
 title: hydraraptor81
 theme: ["PaperMod"]
@@ -111,26 +111,28 @@ menu:
 
 privacy:
   disqus:
-    disable: false
+    disable: true
   googleAnalytics:
-    disable: false
-    respectDoNotTrack: false
+    anonymizeIP: true
+    disable: true
+    respectDoNotTrack: true
+    useSessionStorage: false
   instagram:
-    disable: false
+    disable: true
     simple: false
   twitter:
-    disable: false
-    enableDNT: false
+    disable: true
+    enableDNT: true
     simple: false
   vimeo:
-    disable: false
-    enableDNT: false
+    disable: true
+    enableDNT: true
     simple: false
   x:
-    disable: false
-    enableDNT: false
+    disable: true
+    enableDNT: true
     simple: false
   youTube:
-    disable: false
-    privacyEnhanced: false
+    disable: true
+    privacyEnhanced: true
 
