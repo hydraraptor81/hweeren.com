@@ -1,30 +1,52 @@
-baseURL: https://site.hweeren.com/
+baseURL: https://www.hweeren.com/
 languageCode: en-us
 title: hydraraptor81
 theme: ["PaperMod"]
 pagination.pagerSize: 5
 copyright: '[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
-outputs:
-  home:
-     - HTML
-     - RSS
-     - JSON # necessary for search
+enableRobotsTXT: true
+enableGitInfo: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
 
 params:
   env: production  #change to production
-  keywords: [Blog, Portfolio, PaperMod, hweeren.com, hweeren, "hwee ren", "aw hwee ren", "hr",  privacy, security, GrapheneOS, Linux, Signal]
+  author: ["hydraraptor81"]
+  keywords: [Blog, Portfolio, hweeren.com, hweeren, "hwee ren", "aw hwee ren", privacy, security, GrapheneOS, Linux, Signal]
   ShowAllPagesInArchive: true
   DateFormat: "2 January 2006"
   defaultTheme: dark
-  author: ["hydraraptor81"]
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+  ShowToc: true
+  ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
+  ShowCodeCopyButtons: true
 
+  assets:
+    disableHLJS: true
+    disableFingerprinting: false
 
+# label:
+#   text: "hydraraptor81"
+#   icon:
 
-  homeInfoParams:
-    Title: Hello there.
-    Content: |
-      A Systems Administrator of a homelab. Maintainer of [searxng.hweeren.com](https://searxng.hweeren.com).<br> 
-      Please use my PGP key on [keys.openpgp.org](https://keys.openpgp.org) to communicate with me via email, otherwise use Matrix/Signal though I am online on signal more frequently at <b>hydraraptor81.96<b>
+  profileMode:
+    enabled: true
+    title: Hello there.
+    subtitle: A Systems Administrator. Maintainer of [**searxng.hweeren.com**](https://searxng.hweeren.com).   
+    buttons:
+      - name: About
+        url: about
+      - name: Privacy
+        url: privacy
+      - name: Donate
+        url: donate
 
   socialIcons: # optional
     - name: "github"
@@ -33,6 +55,11 @@ params:
       url: "https://www.linkedin.com/in/hweeren"
     - name: "email"
       url: "mailto:hr@hweeren.com"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   ShowShareButtons: true
   ShareButtons: ["whatsapp", "telegram", "facebook", "linkedin", "reddit", "x"]
@@ -47,18 +74,63 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]  
-    placeholder: "Type here"
+
+outputs:
+  home:
+     - HTML
+     - RSS
+     - JSON # necessary for search
+
+markup:
+    highlight:
+        style: monokai
+        lineNos: false
+        noClasses: false
+        guessSyntax: true
+        codeFences: true
+        anchorLineNos: true
 
 menu:
   main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 5
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 10
     - identifier: Archive
       name: Archive
       url: /archives/
-      weight: 5
+      weight: 15
     - identifier: Search
       name: Search
       url: /search/
-      weight: 10
+      weight: 20
 
-
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    disable: false
+    respectDoNotTrack: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: false
+    simple: false
+  x:
+    disable: false
+    enableDNT: false
+    simple: false
+  youTube:
+    disable: false
+    privacyEnhanced: false
 

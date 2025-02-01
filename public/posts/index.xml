@@ -2,19 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on hydraraptor81</title>
-    <link>http://localhost:37379/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on hydraraptor81</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <copyright>CC BY-SA 4.0</copyright>
-    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:37379/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2025 22:49:37 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:37379/posts/helloworld/</link>
+      <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37379/posts/helloworld/</guid>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
       <description>My first article</description>
+      <content:encoded><![CDATA[<p>SAMPLE TEXT 1</p>
+<p>The <a href="https://searxng.hweeren.com"><code>SAMPLE TEXT 2</code></a> SAMPLE TEXT 3  <a href="https://searxng.hweeren.com">SAMPLE TEXT 4</a>.</p>
+<hr>
+<p><strong>SAMPLE TEXT 5</strong> SAMPLE TEXT 6</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">SAMPLE TEXT 7</span></span></code></pre></div>]]></content:encoded>
     </item>
   </channel>
 </rss>

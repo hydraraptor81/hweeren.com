@@ -2,19 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>hydraraptor81</title>
-    <link>http://localhost:37379/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on hydraraptor81</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <copyright>CC BY-SA 4.0</copyright>
-    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:37379/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my personal blog where I will discuss about Privacy and Security in general. From time to time I will also write op-eds on pretty much any topic under the sun. Do reach out to me if you would like to discuss or contribute to any of my posts! If the matter is sensitive, please use my PGP key on &lt;a href=&#34;https://keys.openpgp.org&#34;&gt;&lt;strong&gt;keys.openpgp.org&lt;/strong&gt;&lt;/a&gt; to communicate with me via email, alternatively I am available on Matrix/Signal though I am online on signal more regularly at &lt;a href=&#34;https://signal.me/#eu/jGxZQZHdIY6RGCJd9WyOtGM7iJeNpg_d3sPWyYLBhrfOrcHRgNtElJNIlP9pgWvs&#34;&gt;&lt;strong&gt;hydraraptor81.96&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This is my personal blog where I will discuss about Privacy and Security in general. From time to time I will also write op-eds on pretty much any topic under the sun. Do reach out to me if you would like to discuss or contribute to any of my posts! If the matter is sensitive, please use my PGP key on <a href="https://keys.openpgp.org"><strong>keys.openpgp.org</strong></a> to communicate with me via email, alternatively I am available on Matrix/Signal though I am online on signal more regularly at <a href="https://signal.me/#eu/jGxZQZHdIY6RGCJd9WyOtGM7iJeNpg_d3sPWyYLBhrfOrcHRgNtElJNIlP9pgWvs"><strong>hydraraptor81.96</strong></a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Donate</title>
+      <link>http://localhost:1313/donate/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/donate/</guid>
+      <description>&lt;p&gt;The domain costs me US$10.44/year or S$14.18/year (Singapore Dollars) to renew from Cloudflare. This repository is hosted on Github for free. It costs me about S$21.33 in electricity to maintain the SearXNG instance and other services that I host for myself.&lt;/p&gt;
+&lt;p&gt;I am not doing well financially as of the date of writing and I would appreciate if anyone is willing to donate to maintain my SearXNG instance. If I receive any more than needed to maintain the instance, I will donate it to &lt;a href=&#34;https://grapheneos.org/donate&#34;&gt;GrapheneOS&lt;/a&gt; a privacy and security focused mobile operating system that I depend on daily. Do feel free to donate to them instead of myself as the costs of maintaining the server is trivial over the long run anyways.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The domain costs me US$10.44/year or S$14.18/year (Singapore Dollars) to renew from Cloudflare. This repository is hosted on Github for free. It costs me about S$21.33 in electricity to maintain the SearXNG instance and other services that I host for myself.</p>
+<p>I am not doing well financially as of the date of writing and I would appreciate if anyone is willing to donate to maintain my SearXNG instance. If I receive any more than needed to maintain the instance, I will donate it to <a href="https://grapheneos.org/donate">GrapheneOS</a> a privacy and security focused mobile operating system that I depend on daily. Do feel free to donate to them instead of myself as the costs of maintaining the server is trivial over the long run anyways.</p>
+<h3 id="hwee-ren">Hwee Ren</h3>
+<p><strong>Paypal</strong>: &ldquo;<a href="https://paypal.me/hweeren%22">https://paypal.me/hweeren&quot;</a>
+<strong>Paynow</strong>: TBD</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;This is my personal website. I do not collect any personal information or track you using cookies, collect your fingerprints or use any tracking scripts.&lt;/p&gt;
+&lt;p&gt;Your Privacy is of &lt;strong&gt;utmost importance&lt;/strong&gt; to me. This policy explains how I handle your information.&lt;/p&gt;
+&lt;h2 id=&#34;hosting-provider&#34;&gt;Hosting Provider&lt;/h2&gt;
+&lt;p&gt;I use Cloudflare for domain registration, DNS for my domain &lt;strong&gt;hweeren.com&lt;/strong&gt;. Cloudflare&amp;rsquo;s Tunnel is only used for &lt;a href=&#34;https://www.hweeren.com&#34;&gt;&lt;strong&gt;www.hweeren.com&lt;/strong&gt;&lt;/a&gt; and all other services listed here do not used Cloudflare&amp;rsquo;s Tunnel unless otherwise stated.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This is my personal website. I do not collect any personal information or track you using cookies, collect your fingerprints or use any tracking scripts.</p>
+<p>Your Privacy is of <strong>utmost importance</strong> to me. This policy explains how I handle your information.</p>
+<h2 id="hosting-provider">Hosting Provider</h2>
+<p>I use Cloudflare for domain registration, DNS for my domain <strong>hweeren.com</strong>. Cloudflare&rsquo;s Tunnel is only used for <a href="https://www.hweeren.com"><strong>www.hweeren.com</strong></a> and all other services listed here do not used Cloudflare&rsquo;s Tunnel unless otherwise stated.</p>
+<p>I do not have access to your IP addresses or activity logs. Cloudflare does keep logs of your website visits in accordance with their <a href="https://www.cloudflare.com/privacypolicy/">privacy policy</a>.</p>
+<h2 id="other-software">Other Software</h2>
+<p>I use <a href="https://gohugo.io/">Hugo</a> to build our website. Hugo has <a href="https://gohugo.io/about/hugo-and-gdpr/">additional privacy settings</a> for GDPR compliance, and I configure it to be as privacy friendly as possible.</p>
+<h2 id="searxng-privacy-policy">SearXNG Privacy Policy</h2>
+<p>This Privacy Policy is effective as of 1 February 2025 and subject to change as the policy is still a work in progress.</p>
+<h3 id="1-logging-policy">1. Logging Policy</h3>
+<p>I will <strong>never log</strong> your search queries, user agent information or your unmasked IP address. Your IP address will only be logged if it is on a known blocklist. These firewall logs are rotated periodically.</p>
+<p>I also use the <strong>inbuilt SearXNG rate limiter</strong> which keeps a <strong>SHA256 hash of a salted IP address</strong> for a maximum period of <strong>10 minutes</strong>, solely for operational purposes. You can review the <a href="https://github.com/searxng/searxng/blob/master/searx/botdetection/ip_limit.py"><strong>Source code</strong></a> of the rate limiter yourself.</p>
+<h3 id="2-cookies-and-local-storage">2. Cookies and Local Storage</h3>
+<p>I use <strong>cookies</strong> only to improve your experience, like saving your preferences. I will never use these to track you and I will <strong>never</strong> use third-party cookies. You can see your saved cookies in <strong>Preferences</strong>.</p>
+<h3 id="3-tls-termination">3. TLS Termination</h3>
+<p>I always handle TLS termination ourselves and never use third-party services such as Cloudflare, AWS CloudFront, Lambda, etc. This way your search queries are <strong>encrypted</strong> from your browser to my servers.</p>
+<p>I use my <strong>own network</strong> to provide you with the best possible experience.</p>
+<h3 id="4-changes-to-privacy-policy">4. Changes to Privacy Policy</h3>
+<p>I may <strong>update</strong> this Privacy Policy at any time. Any changes will be <strong>prominently posted</strong> on this page, and it&rsquo;s up to you to <strong>check for updates</strong> on a regular basis.</p>
+<h3 id="5-contact-us">5. Contact Us</h3>
+<p>If you have any questions or concerns regarding data protection, please contact me via email at <a href="mailto:hr@hweeren.com"><strong>hr@hweeren.com</strong></a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:37379/posts/helloworld/</link>
+      <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37379/posts/helloworld/</guid>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
       <description>My first article</description>
+      <content:encoded><![CDATA[<p>SAMPLE TEXT 1</p>
+<p>The <a href="https://searxng.hweeren.com"><code>SAMPLE TEXT 2</code></a> SAMPLE TEXT 3  <a href="https://searxng.hweeren.com">SAMPLE TEXT 4</a>.</p>
+<hr>
+<p><strong>SAMPLE TEXT 5</strong> SAMPLE TEXT 6</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">SAMPLE TEXT 7</span></span></code></pre></div>]]></content:encoded>
     </item>
   </channel>
 </rss>
