@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on hydraraptor81</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://site.hweeren.com/posts/</link>
     <description>Recent content in Posts on hydraraptor81</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <copyright>CC BY-SA 4.0</copyright>
     <lastBuildDate>Sun, 12 Jan 2025 22:49:37 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://site.hweeren.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/helloworld/</link>
+      <link>https://site.hweeren.com/posts/helloworld/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <guid>https://site.hweeren.com/posts/helloworld/</guid>
       <description>My first article</description>
       <content:encoded><![CDATA[<p>SAMPLE TEXT 1</p>
 <p>The <a href="https://searxng.hweeren.com"><code>SAMPLE TEXT 2</code></a> SAMPLE TEXT 3  <a href="https://searxng.hweeren.com">SAMPLE TEXT 4</a>.</p>

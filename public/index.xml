@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>hydraraptor81</title>
-    <link>http://localhost:1313/</link>
+    <link>https://site.hweeren.com/</link>
     <description>Recent content on hydraraptor81</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <copyright>CC BY-SA 4.0</copyright>
     <lastBuildDate>Sun, 02 Feb 2025 02:50:44 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://site.hweeren.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://site.hweeren.com/about/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://site.hweeren.com/about/</guid>
       <description>&lt;p&gt;This is my personal blog where I will discuss about Privacy and Security in general. From time to time I will also write op-eds on pretty much any topic under the sun. Do reach out to me if you would like to discuss or contribute to any of my posts! If the matter is sensitive, please use my PGP key on &lt;a href=&#34;https://keys.openpgp.org&#34;&gt;&lt;strong&gt;keys.openpgp.org&lt;/strong&gt;&lt;/a&gt; to communicate with me via email, alternatively I am available on Matrix/Signal though I am online on signal more regularly at &lt;a href=&#34;https://signal.me/#eu/jGxZQZHdIY6RGCJd9WyOtGM7iJeNpg_d3sPWyYLBhrfOrcHRgNtElJNIlP9pgWvs&#34;&gt;&lt;strong&gt;hydraraptor81.96&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This is my personal blog where I will discuss about Privacy and Security in general. From time to time I will also write op-eds on pretty much any topic under the sun. Do reach out to me if you would like to discuss or contribute to any of my posts! If the matter is sensitive, please use my PGP key on <a href="https://keys.openpgp.org"><strong>keys.openpgp.org</strong></a> to communicate with me via email, alternatively I am available on Matrix/Signal though I am online on signal more regularly at <a href="https://signal.me/#eu/jGxZQZHdIY6RGCJd9WyOtGM7iJeNpg_d3sPWyYLBhrfOrcHRgNtElJNIlP9pgWvs"><strong>hydraraptor81.96</strong></a></p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Donate</title>
-      <link>http://localhost:1313/donate/</link>
+      <link>https://site.hweeren.com/donate/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/donate/</guid>
+      <guid>https://site.hweeren.com/donate/</guid>
       <description>&lt;p&gt;The domain costs me US$10.44/year or S$14.18/year (Singapore Dollars) to renew from Cloudflare. This repository is hosted on Github for free. It costs me about S$21.33 in electricity to maintain the SearXNG instance and other services that I host for myself.&lt;/p&gt;
 &lt;p&gt;I am not doing well financially as of the date of writing and I would appreciate if anyone is willing to donate to maintain my SearXNG instance. If I receive any more than needed to maintain the instance, I will donate it to &lt;a href=&#34;https://grapheneos.org/donate&#34;&gt;GrapheneOS&lt;/a&gt; a privacy and security focused mobile operating system that I depend on daily. Do feel free to donate to them instead of myself as the costs of maintaining the server is trivial over the long run anyways.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>The domain costs me US$10.44/year or S$14.18/year (Singapore Dollars) to renew from Cloudflare. This repository is hosted on Github for free. It costs me about S$21.33 in electricity to maintain the SearXNG instance and other services that I host for myself.</p>
@@ -34,9 +34,9 @@
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
+      <link>https://site.hweeren.com/privacy/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
+      <guid>https://site.hweeren.com/privacy/</guid>
       <description>&lt;p&gt;This is my personal website. I do not collect any personal information or track you using cookies, collect your fingerprints or use any tracking scripts.&lt;/p&gt;
 &lt;p&gt;Your Privacy is of &lt;strong&gt;utmost importance&lt;/strong&gt; to me. This policy explains how I handle your information.&lt;/p&gt;
 &lt;h2 id=&#34;hosting-provider&#34;&gt;Hosting Provider&lt;/h2&gt;
@@ -66,9 +66,9 @@
     </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/helloworld/</link>
+      <link>https://site.hweeren.com/posts/helloworld/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <guid>https://site.hweeren.com/posts/helloworld/</guid>
       <description>My first article</description>
       <content:encoded><![CDATA[<p>SAMPLE TEXT 1</p>
 <p>The <a href="https://searxng.hweeren.com"><code>SAMPLE TEXT 2</code></a> SAMPLE TEXT 3  <a href="https://searxng.hweeren.com">SAMPLE TEXT 4</a>.</p>

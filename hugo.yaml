@@ -18,7 +18,7 @@ params:
   ShowAllPagesInArchive: true
   DateFormat: "2 January 2006"
   defaultTheme: dark
-  disableThemeToggle: false
+  disableThemeToggle: True
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
