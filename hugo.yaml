@@ -97,17 +97,13 @@ menu:
       url: /about/
       weight: 5
     - identifier: Posts
-      name: Posts
+      name: Categories
       url: /posts/
       weight: 10
-    - identifier: Archive
-      name: Archive
-      url: /archives/
-      weight: 15
     - identifier: Search
       name: Search
       url: /search/
-      weight: 20
+      weight: 15
 
 privacy:
   disqus:
@@ -135,4 +131,5 @@ privacy:
   youTube:
     disable: true
     privacyEnhanced: true
+
 
