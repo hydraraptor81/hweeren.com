@@ -16,7 +16,7 @@ I do not have access to your IP addresses or activity logs. Cloudflare does keep
 
 ## Other Software
 
-I use [Hugo](https://gohugo.io/) to build our website. Hugo has [additional privacy settings](https://gohugo.io/about/hugo-and-gdpr/) for GDPR compliance, and I configure it to be as privacy friendly as possible.
+I use [Hugo](https://gohugo.io/) to build my website. Hugo has [additional privacy settings](https://gohugo.io/about/hugo-and-gdpr/) for GDPR compliance, and I configure it to be as privacy friendly as possible.
 
 ## SearXNG Privacy Policy
 
@@ -34,7 +34,7 @@ I use **cookies** only to improve your experience, like saving your preferences.
 
 ### 3. TLS Termination
 
-I always handle TLS termination ourselves and never use third-party services such as Cloudflare, AWS CloudFront, Lambda, etc. This way your search queries are **encrypted** from your browser to my servers. 
+I always handle TLS termination myself and never use third-party services such as Cloudflare, AWS CloudFront, Lambda, etc. This way your search queries are **encrypted** from your browser to my servers. 
 
 I use my **own network** to provide you with the best possible experience.
 

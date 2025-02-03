@@ -74,7 +74,7 @@
 <p>I use Cloudflare for domain registration, DNS for my domain <strong>hweeren.com</strong>. Cloudflare&rsquo;s Tunnel is only used for <a href="https://www.hweeren.com"><strong>www.hweeren.com</strong></a> and all other services listed here do not used Cloudflare&rsquo;s Tunnel unless otherwise stated.</p>
 <p>I do not have access to your IP addresses or activity logs. Cloudflare does keep logs of your website visits in accordance with their <a href="https://www.cloudflare.com/privacypolicy/">privacy policy</a>.</p>
 <h2 id="other-software">Other Software</h2>
-<p>I use <a href="https://gohugo.io/">Hugo</a> to build our website. Hugo has <a href="https://gohugo.io/about/hugo-and-gdpr/">additional privacy settings</a> for GDPR compliance, and I configure it to be as privacy friendly as possible.</p>
+<p>I use <a href="https://gohugo.io/">Hugo</a> to build my website. Hugo has <a href="https://gohugo.io/about/hugo-and-gdpr/">additional privacy settings</a> for GDPR compliance, and I configure it to be as privacy friendly as possible.</p>
 <h2 id="searxng-privacy-policy">SearXNG Privacy Policy</h2>
 <p>This Privacy Policy is effective as of 1 February 2025 and subject to change as the policy is still a work in progress.</p>
 <h3 id="1-logging-policy">1. Logging Policy</h3>
@@ -83,7 +83,7 @@
 <h3 id="2-cookies-and-local-storage">2. Cookies and Local Storage</h3>
 <p>I use <strong>cookies</strong> only to improve your experience, like saving your preferences. I will never use these to track you and I will <strong>never</strong> use third-party cookies. You can see your saved cookies in <strong>Preferences</strong>.</p>
 <h3 id="3-tls-termination">3. TLS Termination</h3>
-<p>I always handle TLS termination ourselves and never use third-party services such as Cloudflare, AWS CloudFront, Lambda, etc. This way your search queries are <strong>encrypted</strong> from your browser to my servers.</p>
+<p>I always handle TLS termination myself and never use third-party services such as Cloudflare, AWS CloudFront, Lambda, etc. This way your search queries are <strong>encrypted</strong> from your browser to my servers.</p>
 <p>I use my <strong>own network</strong> to provide you with the best possible experience.</p>
 <h3 id="4-changes-to-privacy-policy">4. Changes to Privacy Policy</h3>
 <p>I may <strong>update</strong> this Privacy Policy at any time. Any changes will be <strong>prominently posted</strong> on this page, and it&rsquo;s up to you to <strong>check for updates</strong> on a regular basis.</p>
