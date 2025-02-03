@@ -7,7 +7,7 @@ date: 2025-02-02
 
 Have you ever poured your heart and soul into an assignment, only to see it flagged for similarities that make no sense at all ?! Turnitin's algorithm is merely just a glorified citation checker. Imagine writing an essay about climate change: "The impact of climate change on global ecosystems cannot be overstated". Do you really expect yourself to cite a source for this ? Isn't this common knowledge already by now ? Well chances are if you don't bother to cite this, and continue to do so for the rest of your assignment, you are going to rack up similarity points like no tomorrow ! Well it might seem like a simple fix to just cite every single sentence that is not your "original" insights. 
 
-## But but, we need to fight against plagiarism ?? or so they say (Universities around the world, not just NTU)
+### But but, we need to fight against plagiarism ?? or so they say (Universities around the world, not just NTU)
 
 Well yeah, "originality checkers" like Turnitin can easily pick out blatant copying of texts, but what makes it so much more effective than a peer review or individual viva ? Pretty much nothing. Any decent faculty member or student would be able to tell whether a student plagiarized their work simply by having a frank and honest discussion with them about their works. 
 
