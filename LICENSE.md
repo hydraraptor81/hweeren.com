@@ -4,4 +4,4 @@ Posts are licensed under the [Creative&nbsp;Commons Attribution&#8209;ShareAlike
 
 [Hugo](https://gohugo.io/), the static site generator used to build the site, is licensed under the [Apache&nbsp;License&nbsp;2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE).
 
-The [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme is licensed under the [MIT&nbsp;License](https://github.com/gohugoio/hugo/blob/master/LICENSE). 
+The [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme is licensed under the [MIT&nbsp;License](https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE). 
